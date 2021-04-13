@@ -1,0 +1,2 @@
+C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\exe\x64\Debug\kbftest.exe
+C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\exe\x64\Debug\kbftest.pdb
