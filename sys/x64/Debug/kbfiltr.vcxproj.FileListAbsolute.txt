@@ -1,0 +1,2 @@
+C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\sys\x64\Debug\kbfiltr.sys
+C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\sys\x64\Debug\kbfiltr.pdb

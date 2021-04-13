@@ -1,0 +1,20 @@
+﻿  Building 'kbfiltr' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\kbfiltr.inf
+  Stamping [Version] section with DriverVer=01/14/2021,11.48.10.463
+C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\sys\kbfiltr.inx(8-8): warning 1324: [Version] section should specify PnpLockdown=1.
+  kbfiltr.vcxproj -> C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\sys\x64\Debug\kbfiltr.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Rozalia\semestr_5\Oprogramowanie Systemowe\projekt\kbfiltr\sys\x64\Debug\kbfiltr\kmdfsamples.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\kbfiltr\kmdfsamples.cat
+  
