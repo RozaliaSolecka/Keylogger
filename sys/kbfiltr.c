@@ -456,8 +456,6 @@ Return Value:
 
     devExt = FilterGetData(hDevice);
 
-
-
     ULONG number;
     PKEYBOARD_INPUT_DATA	inputKey;
     inputKey = InputDataStart;
