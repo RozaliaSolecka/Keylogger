@@ -409,9 +409,6 @@ Return Value:
         DebugPrint(("WdfRequestSend failed: 0x%x\n", status));
         WdfRequestComplete(Request, status);
     }
-
-
-
     return;
 }
 
@@ -465,19 +462,13 @@ Return Value:
     PKEYBOARD_INPUT_DATA	inputKey;
     inputKey = InputDataStart;
     number = (ULONG)(InputDataEnd - InputDataStart);
-  
 
     PWORKER_ITEM_CONTEXT		context;
     context = GetWorkItemContext(devExt->workItem);
 
-   
     context->buffer[0] = *inputKey;
     
     QueueWorkItem(devExt->workItem);
-
-
-
-
 
     (*(PSERVICE_CALLBACK_ROUTINE)(ULONG_PTR)devExt->UpperConnectData.ClassService)(
         devExt->UpperConnectData.ClassDeviceObject,
